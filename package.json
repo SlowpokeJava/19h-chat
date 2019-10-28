@@ -1,0 +1,19 @@
+{
+  "name": "socket_slowpokejava",
+  "version": "1.1.0",
+  "description": "\"The Best Socket Ever 2019 JS 44$\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "testso"
+  },
+  "keywords": [
+    "socket"
+  ],
+  "author": "slowpokejava",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {}
+}
